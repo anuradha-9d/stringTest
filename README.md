@@ -23,5 +23,7 @@ mvn test
 ```
 
 To understand the source code
-/src/main/java/com/anuradha/stringTests/assessment.java -> contains the implementation of the replaceall method
+<br>
+/src/main/java/com/anuradha/stringTests/assessment.java -> contains the implementation of the replaceall method.
+<br>
 /src/test/java/com/anuradha/stringTests/AppTest.java -> contains about 10 test cases implemented using junit.
