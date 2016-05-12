@@ -5,8 +5,8 @@ Java project to has string related operations (currently replace string)
 
 Make sure your computer has the following software installed.
 
-git
-java
+git,
+java,
 maven
 
 Clone the git repo
